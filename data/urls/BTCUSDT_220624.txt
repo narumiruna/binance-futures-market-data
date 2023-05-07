@@ -1,0 +1,10 @@
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-24.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-22.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-21.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-20.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-18.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-16.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-14.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-06.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-04.zip
+https://data.binance.vision/data/futures/um/daily/metrics/BTCUSDT_220624/BTCUSDT_220624-metrics-2022-06-01.zip
