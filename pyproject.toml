@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "binance-futures-market-data"
+version = "0.1.0"
+description = ""
+authors = ["なるみ <toucans-cutouts0f@icloud.com>"]
+readme = "README.md"
+packages = [{include = "binance_futures_market_data"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.30.0"
+
+
+[tool.poetry.group.dev.dependencies]
+yapf = "^0.33.0"
+toml = "^0.10.2"
+isort = "^5.12.0"
+flake8 = "^6.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
