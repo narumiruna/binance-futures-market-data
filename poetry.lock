@@ -276,6 +276,17 @@ socks = ["pysocks (>=1.5.6,!=1.5.7,<2.0)"]
 zstd = ["zstandard (>=0.18.0)"]
 
 [[package]]
+name = "wget"
+version = "3.2"
+description = "pure python download utility"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "wget-3.2.zip", hash = "sha256:35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061"},
+]
+
+[[package]]
 name = "yapf"
 version = "0.33.0"
 description = "A formatter for Python code."
@@ -293,4 +304,4 @@ tomli = ">=2.0.1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "54683666f623d3c8a2c9d63da4e5865b441d9e63f3d7cc305f2e3652cfba6e4e"
+content-hash = "7adae52bdf2c523319e6279e1a8c8fbad833afdde0e328e5167c4d5a2bbe8ff5"
